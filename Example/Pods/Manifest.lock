@@ -1,0 +1,16 @@
+PODS:
+  - XYPodTestLib (0.1.0)
+
+DEPENDENCIES:
+  - XYPodTestLib (from `../`)
+
+EXTERNAL SOURCES:
+  XYPodTestLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XYPodTestLib: 66126880857e3d19fe2cd1e057617ed8901031ed
+
+PODFILE CHECKSUM: 9fc3a04c0618eac7955eeddd27cd3c04956f6fd5
+
+COCOAPODS: 1.5.3

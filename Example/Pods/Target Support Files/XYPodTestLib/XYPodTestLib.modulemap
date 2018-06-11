@@ -1,0 +1,6 @@
+framework module XYPodTestLib {
+  umbrella header "XYPodTestLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
